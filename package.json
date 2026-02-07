@@ -1,0 +1,13 @@
+{
+  "name": "asset-watchtower",
+  "version": "1.0.0",
+  "description": "ERC-20 Security Watcher",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
